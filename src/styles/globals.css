@@ -6,3 +6,6 @@ body{
   background-color: #18153c;
   color: #fff;
 }
+.bg-custom-opacity{
+  background-color: #18153cbb;
+}

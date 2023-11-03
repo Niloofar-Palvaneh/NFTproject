@@ -10,7 +10,7 @@ export default function Navbar() {
     }
     return (
         <>
-            <div className="flex items-center justify-between px-4 py-2">
+            <div className="flex items-center justify-between px-12 py-2 sm:px-2">
                 <div className="z-50">
                     <Image src={"/logo.png"} width={60} height={60} alt="logo" />
                 </div>

@@ -3,8 +3,7 @@ import { Inter } from 'next/font/google'
 import Navbar from '@/components/navbar/Navbar'
 import Header from '@/components/header/Header'
 import LineHeader from '@/components/lineHeader/LineHeader'
-
-const inter = Inter({ subsets: ['latin'] })
+import CardSection from '@/components/cardSection/CardSection'
 
 export default function Home() {
   return (
@@ -14,6 +13,7 @@ export default function Home() {
         <Header/>
       </div>
       <LineHeader/>
+      <CardSection/>
     </>
   )
 }

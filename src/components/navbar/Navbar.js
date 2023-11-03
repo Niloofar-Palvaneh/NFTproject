@@ -42,7 +42,7 @@ export default function Navbar() {
                 </div>
             </div>
             <div className={`${isShowMobileMenu ? "-right-0" : "right-[100%]"} transition-all ease-out duration-300
-             absolute h-screen w-full bg-[#18153c] flex items-center justify-center`}>
+             absolute h-screen w-full bg-[#18153c] flex items-center justify-center z-50 `}>
                 <ul className=" flex flex-col gap-6 items-center text-[18px]">
                     <Link href={"#"} className="hover:text-fuchsia-400 transition">
                         Home

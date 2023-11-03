@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ['latin'] })
 export default function Home() {
   return (
     <>
-      <div className='px-12 py-6 '>
+      <div className=''>
         <Navbar />
       </div>
     </>

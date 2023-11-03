@@ -18,6 +18,6 @@ create by:
 <br/>
 ⭕️Next js
 <br/>
-⭕️AOs
+⭕️AOS
 
 

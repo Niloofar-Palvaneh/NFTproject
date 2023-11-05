@@ -19,5 +19,7 @@ create by:
 ⭕️Next js
 <br/>
 ⭕️AOS
+<br/>
+⭕️Swiper js
 
 

@@ -9,3 +9,6 @@ body{
 .bg-custom-opacity{
   background-color: #18153cbb;
 }
+.swiper-pagination-bullet{
+background-color: #6f66cc !important;
+}

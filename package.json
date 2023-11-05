@@ -12,7 +12,8 @@
     "aos": "^3.0.0-beta.6",
     "next": "14.0.1",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "swiper": "^11.0.3"
   },
   "devDependencies": {
     "autoprefixer": "^10.0.1",

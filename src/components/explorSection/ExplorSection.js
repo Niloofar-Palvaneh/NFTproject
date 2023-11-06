@@ -31,7 +31,7 @@ export default function ExplorSection() {
                             Explore our collections
                         </h3>
                     </div>
-                    <div className=" grid grid-cols-3 gap-4 sm:grid-cols-1 md:grid-cols-1 xl:grid-cols-1 place-items-center ">
+                    <div className=" grid grid-cols-3 gap-4 sm:grid-cols-1 md:grid-cols-1 xl:grid-cols-1 2xl:grid-cols-2 place-items-center ">
                         {
                             cardsData.map(data => (
                                 <div className="bg-gradient-to-r from-fuchsia-400 to-sky-700 p-[1px] rounded overflow-hidden w-max hover:bg-gradient-to-l from-fuchsia-400 to-sky-700 ">

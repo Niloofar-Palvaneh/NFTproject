@@ -34,11 +34,12 @@ export default function ExplorSection() {
                     <div className=" grid grid-cols-3 gap-4 sm:grid-cols-1 md:grid-cols-1 xl:grid-cols-1 2xl:grid-cols-2 place-items-center ">
                         {
                             cardsData.map(data => (
-                                <div className="bg-gradient-to-r from-fuchsia-400 to-sky-700 p-[1px] rounded overflow-hidden w-max hover:bg-gradient-to-l from-fuchsia-400 to-sky-700 ">
+                                <div className="bg-gradient-to-r from-fuchsia-400 to-sky-700 p-[1px] rounded 
+                                overflow-hidden w-max hover:bg-gradient-to-l from-fuchsia-400 to-sky-700 sm:w-full md:w-full">
                                     <div className="bg-[#18153c] p-2 rounded  hover:bg-[#221e53] transition ">
                                         <div className="flex flex-col gap-4">
                                             <Image 
-                                            className="sm:w-[220px] xl:w-[550px]"
+                                            className="sm:w-full md:w-full xl:w-[550px]"
                                             src={data.src} width={400} height={400} alt="..." />
                                             <div className="flex items-center justify-between">
                                                 <h6 className="text-xl font-bold">

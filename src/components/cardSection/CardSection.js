@@ -18,7 +18,7 @@ export default function CardSection(){
         <>
         <div className="w-full flex items-center justify-center mt-24 overflow-hidden">
             <div className="w-[90%] flex items-center justify-around sm:flex-col sm:justify-center sm:gap-4">
-                <Image data-aos="fade-right" src={"/card.png"} width={400} height={400} alt="card"/>
+                <Image data-aos="fade-right" src={"/Card.png"} width={400} height={400} alt="card"/>
                 <div data-aos="fade-left" className="w-1/2 flex flex-col gap-8 sm:w-full sm:text-center sm:items-center">
                     <h4 className="text-3xl font-bold">
                     Get exclusive NTF bundles from here.

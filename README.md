@@ -1,8 +1,8 @@
 <h1>
-  NFT project
+  NFT PROJECT
 </h1>
 <hr/>
-Demo on vercel 👉: 
+Demo on Vercel 👉: 
 <br/>
 (https://nf-tproject.vercel.app/)
 <hr/>

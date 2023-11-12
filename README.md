@@ -2,7 +2,7 @@
   NFT PROJECT
 </h1>
 <hr/>
-Demo on Vercel 👉: 
+Demo on Vercel 👉
 <br/>
 (https://nf-tproject.vercel.app/)
 <hr/>
